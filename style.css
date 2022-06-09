@@ -272,7 +272,8 @@ body{
     margin: 2em 0 3.5em 0;
 }
 
-.client .__info h3{
+.client .__info h2{
+    font-size: 1.2rem;
     color: var(--very-dark-desaturated-blue);
 }
 
